@@ -1,4 +1,5 @@
 import Profile2 from "./Components2/Profile2";
+import Dashbord from "./Travel_jounels/dashbord";
 import Profile from "./components/profile"
 
 
@@ -9,8 +10,8 @@ import Profile from "./components/profile"
 function App() {
   return (
     <>
-    
-      <Profile/>
+    <Dashbord/>
+      {/* <Profile/> */}
     {/* <Profile2/> */}
       
     </>

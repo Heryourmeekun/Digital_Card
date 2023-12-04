@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(241, 227, 227);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+} 
+.journal{
+    background-color:white;
+    width: 610px;
+    height: auto;
+    
+    
+    
+}
+.journa{
+    background-color: #F55A5A;
+    width: 610px;
+    height: 55px;
+    color: white;
+    text-align: center;
+    
+}
+#jon{
+    margin-top: 10px;
+  
+}
+.Fuju{
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+}
+.image{
+    margin-left: 40px;
+    margin-top: 50px;
+  
+    
+}
+.second{
+    display:flex ;
+       gap: 20px;
+    padding: 20px;
+    margin: 40px;
+}
+.third{
+    display: flex;
+     gap: 20px;
+    padding: 20px;
+    margin: 40px;
+}
+.Mount{
+    margin-top: 60px;
+    
+}
+.Mount2{
+    margin-top: 15px;
+}
+.Mount3{
+    margin-top: 15px;
+}
+#google{
+    text-decoration: underline;
+    margin-left: 20px;
+    
+}
+#mount{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    position: relative;
+    top: 20px;
+}
+#jan{
+    font-weight: bold;
+}
+#jan2{
+    font-weight: bold;
+    position: relative;
+    top: 20px;
+}
+#jan3{
+      font-weight: bold;
+    position: relative;
+    top: 20px;
+}

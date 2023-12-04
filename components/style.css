@@ -1,11 +1,11 @@
-body{
+/* body{
     background-color:black;
     align-items: center;
     justify-content: center;
     display: flex;
     flex-direction: column;
     margin-top: 80px;
-}
+} */
 
 .profile{
     align-items: center;
